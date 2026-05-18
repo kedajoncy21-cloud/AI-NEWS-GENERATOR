@@ -1,6 +1,6 @@
 # AI News generator
 
-This project leverages CrewAI and Cohere's Command-R:7B model to build an AI news generator!
+This project leverages CrewAI and Cohere's Command-R:7B model to build an AI news generator.
 
 ## Installation and setup
 
